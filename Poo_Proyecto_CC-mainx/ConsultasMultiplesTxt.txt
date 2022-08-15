@@ -1,0 +1,5 @@
+Tema, ID, Titulo Consulta, Descripcion, Muy a favor, A favor, Neutro, En contra, Muy en contra, 
+Familia, 4, Como criar a un recien nacido, Como se puede criar a un infante sin tener conocimientos de crianza, 0, 0, 0, 0, 0, 
+Ciencia, 9, La tierra es plana?, Existe alguna posiblidad de que la tierra sea plana o solo son rumores?, 0, 0, 0, 0, 0, 
+Ciencia, 10, DAS, adsda, 0, 0, 0, 0, 0, 
+Trabajo, 6, Donde encontrar trabajo, Donde puedo se puede encontrar trabajo un la V region, 0, 0, 0, 0, 0, 

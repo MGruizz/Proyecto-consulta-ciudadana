@@ -1,0 +1,5 @@
+Tema, ID, Titulo Consulta, Descripcion, Likes, Dislikes, 
+Salud, 1, Que opina del aborto?, Que opina de la propuesta del gobierno sobre el aborto por tres causales, 1, 0, 
+Salud, 3, qqqdq, qeqewqe, 0, 0, 
+Trabajo, 2, Que le parece el sueldo minimo?, Que opina usted sobre un posible aumento del sueldo minimo, en base a sus gastos mensuales., 0, 0, 
+Trabajo, 9, A, B, 1, 0, 
